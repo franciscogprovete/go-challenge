@@ -8,7 +8,7 @@
 
 [Docker Hub](https://hub.docker.com/r/franciscoprovete/go)
 
-**Segue abaixo o conteúdo do arquivo Dockerfile**
+Segue abaixo o conteúdo do arquivo **Dockerfile**
 
 ```
 FROM golang:alpine AS builder
