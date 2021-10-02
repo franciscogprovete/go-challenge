@@ -2,7 +2,7 @@
 
 **Para fazer pull da imagem basta executar o comando abaixo:**
 
-`docker pull franciscoprovete/go`
+`docker pull franciscoprovete/go:prod`
 
 
 **Link do Docker Hub**
