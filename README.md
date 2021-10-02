@@ -1,4 +1,4 @@
- GO Challenge
+# GO Challenge
 
 **Para fazer pull da imagem basta executar o comando abaixo:**
 
@@ -34,7 +34,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("FullCycle Rocks!")
+  fmt.Println("FullCycle Rocks!")
 }
 ```
 
