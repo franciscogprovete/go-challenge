@@ -1,5 +1,8 @@
 # GO Challenge
 
+**Para rodar a imagem basta executar o comando abaixo**
+`docker run --rm franciscoprovete/go:prod`
+
 **Para fazer pull da imagem basta executar o comando abaixo:**
 
 `docker pull franciscoprovete/go:prod`
